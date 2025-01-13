@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(98, 106, 159);
+}
+h1{
+    color: skyblue;
+    text-align: center;
+}
+h2{
+    color: rgb(101, 56, 68);
+}
+h3{
+    color: rgb(178, 216, 202);
+}
+p{
+    color: rgb(255, 98, 97);
+    font-size: 33px;
+}
